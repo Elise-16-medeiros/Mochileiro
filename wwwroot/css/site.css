@@ -1,0 +1,18 @@
+html {
+  font-size: 14px;
+}
+
+
+
+body {
+    
+  margin-bottom: 60px;
+}
+
+
+.container {
+    
+    align-items: center;
+    margin: 40px;
+    text-align: center;
+}
